@@ -28,16 +28,12 @@ params:
   social:
     - icon: fa fa-2x fa-github
       name: Github
-      url: github.com/kasiawojczulanis
+      url: https://github.com/kasiawojczulanis
       weight: 1
-    - icon: fa fa-2x fa-orcid
-      name: Orcid
-      url: https://orcid.org/0000-0001-6230-0509
-      weight: 2
     - icon: fa fa-2x fa-twitter
       name: Twitter
       url: https://twitter.com/wojczulanis13
-      weight: 3
+      weight: 2
 taxonomies:
   author: authors
   category: categories
