@@ -12,3 +12,8 @@ This could be a long story, with some photos
 ![ja](kasia_web_v2\ja.jpg)
 
 Jeszcze trochę tu dodam tekstu, bo coś nie chce się laczyć, przy okazji sprawdzę polskie znaki!
+
+```{r}
+knitr::include_graphics("ja.jpg")
+
+```
