@@ -21,4 +21,6 @@ knitr::include_graphics("ja.jpg")
 Coś tu nie działa, albo ja nie mam do tego cierpliwości...
 a jak w takim razie linkowanie?
 
-[polar group site](https://polarecologygroup.wordpress.com/people/)
+[polar](https://polarecologygroup.wordpress.com/people/)
+
+No to jeszcze jedna próba na koniec, żeby te linki wypróbować, czy one działają czy nie
