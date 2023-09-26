@@ -1,0 +1,68 @@
+baseURL: http://www.example.com
+title: wojczulanis
+theme: hugo-coder
+languageCode: en
+defaultContentLanguage: en
+paginate: 20
+enableEmoji: yes
+markup:
+  highlight:
+    noClasses: no
+params:
+  avatarURL: https://pbs.twimg.com/profile_images/525288386228015104/8QPCQ-lC_400x400.jpeg
+  colorScheme: auto
+  commit: https://github.com/luizdepra/hugo-coder/tree/
+  customCSS: []
+  customJS: []
+  customRemoteJS: []
+  customSCSS: []
+  dateFormat: January 2, 2006
+  description: Kasia Wojczulanis-Jakubas's personal website
+  hideColorSchemeToggle: no
+  info:
+    - professor, Yuki's kahu
+  keywords: behavioral ecology, seabirds, hummingbirds, basically all the animals
+  maxSeeAlsoItems: 5
+  rtl: no
+  since: 2019
+  social:
+    - icon: fa fa-2x fa-github
+      name: Github
+      url: github.com/kasiawojczulanis
+      weight: 1
+    - icon: fa fa-2x fa-twitter
+      name: Twitter
+      url: https://twitter.com/wojczulanis13
+      weight: 3
+taxonomies:
+  author: authors
+  category: categories
+  series: series
+  tag: tags
+languages:
+  en:
+    languageName: ':uk:'
+    menu:
+      main:
+        - name: About
+          url: about/
+          weight: 1
+        - name: Publications
+          url: publications/
+          weight: 3
+        - name: Ongoing projects
+          url: projects/
+          weight: 2
+        - name: Past projects
+          url: projects/
+          weight: 3
+        - name: Blog
+          url: blog/
+          weight: 4
+        - name: Contact me
+          url: contact/
+          weight: 5
+    params:
+      info: In order to see birds it is necessary to become a part of the silence -- Robert Lynd
+      keywords: animal behaviour, breeding and non-breeding ecology
+    title: Kasia Wojczulanis-Jakubas
