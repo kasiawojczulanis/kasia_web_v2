@@ -36,6 +36,9 @@ Descamps S, **Wojczulanis-Jakubas K**, Jakubas D, Vihtakari M, Steen H, Karnovsk
 
 
 
+### Tidying up, to be continued...
+
+
 
 11. Boehnke R, Wichorowski M, Trudnowska E, Balazy K, Jakubas D, Wold A, et al. Application of artificial neural network to estimate the quality of little auks’ potential foraging grounds on Spitsbergen. Limnol Oceanogr. 2022;20: 159–171. doi:10.1002/lom3.10478
 12. Wojczulanis-Jakubas K, Jakubas D, Stempniewicz L. The little auk Alle alle: an ecological indicator of a changing Arctic and a model organism. Polar Biol. 2022;45: pages163–176. doi:10.1007/s00300-021-02981-7
