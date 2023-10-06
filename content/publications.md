@@ -38,10 +38,10 @@ Descamps S, **Wojczulanis-Jakubas K**, Jakubas D, Vihtakari M, Steen H, Karnovsk
 
 ### Tidying up, to be continued...
 
+Boehnke R, Wichorowski M, Trudnowska E, Balazy K, Jakubas D, Wold A ... **Wojczulanis-Jakubas K**... et al (**2022**). Application of artificial neural network to estimate the quality of little auks’ potential foraging grounds on Spitsbergen. *Limnology and Oceanography* 20: 159–171. https://doi.org/10.1002/lom3.10478 
 
-
-11. Boehnke R, Wichorowski M, Trudnowska E, Balazy K, Jakubas D, Wold A, et al. Application of artificial neural network to estimate the quality of little auks’ potential foraging grounds on Spitsbergen. Limnol Oceanogr. 2022;20: 159–171. doi:10.1002/lom3.10478
 12. Wojczulanis-Jakubas K, Jakubas D, Stempniewicz L. The little auk Alle alle: an ecological indicator of a changing Arctic and a model organism. Polar Biol. 2022;45: pages163–176. doi:10.1007/s00300-021-02981-7
+
 13. Fauchald P, Tarroux A, Amélineau F, Bråthen V, Descamps S, Ekker M, et al. Year-round distribution of Northeast Atlantic seabird populations: applications for population management and marine spatial planning. Mar Ecol Prog Ser. 2021;676: 255–276. doi:10.3354/meps13854
 14. Amélineau F, Merkel B, Tarroux A, Descamps S, Anker-Nilssen T, Bjørnstad O, et al. Six pelagic seabird species of the North Atlantic engage in a fly-and-forage strategy during their migratory movements. Mar Ecol Prog Ser. 2021;676: 127–144. doi:10.3354/meps13872
 15. Descamps S, Merkel B, Strøm H, Choquet R, Steen H, Fort J, et al. Sharing wintering grounds does not synchronize annual survival in a high Arctic seabird, the little auk. Mar Ecol Prog Ser. 2021;676: 233–242. doi:10.3354/meps13400
