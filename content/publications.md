@@ -53,6 +53,11 @@ Dufour P, **Wojczulanis-Jakubas K**, Lavergne S, Renaud J, Jakubas D, Descamps S
 Jakubas D, **Wojczulanis-Jakubas K**, Powers A, Frazier T, Bottomley M, Kraszpulski M (**2021**) Differences in a cage escape behaviour between two migrating warblers of different stop-over strategy. *Animals* 11(3): 639. https://doi.org/10.3390/ani11030639
 
 
+
+
+
+
+
 ### Tidying up, to be continued...
 
 18. Albert C, Helgason HH, Brault-Favrou M, Robertson GJ, Descamps S, Amélineau F, et al. Seasonal variation of mercury contamination in Arctic seabirds: A pan-Arctic assessment. Sci Total Environ. 2021;750: 142201. doi:10.1016/j.scitotenv.2020.142201

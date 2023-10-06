@@ -50,18 +50,15 @@ languages:
         - name: Publications
           url: publications/
           weight: 2
-        - name: Ongoing projects
+        - name: Projects
           url: projects/
           weight: 3
-        - name: Past projects
-          url: projects/
-          weight: 4
         - name: Blog
           url: blog/
-          weight: 5
+          weight: 4
         - name: Contact me
           url: contact/
-          weight: 6
+          weight: 5
     params:
       info: In order to see birds it is necessary to become a part of the silence -- Ys
       keywords: animal behaviour, breeding and non-breeding ecology
