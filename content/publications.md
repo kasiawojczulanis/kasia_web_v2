@@ -33,20 +33,28 @@ Descamps S, **Wojczulanis-Jakubas K**, Jakubas D, Vihtakari M, Steen H, Karnovsk
 
 **Wojczulanis-Jakubas K**, Grissot A, Devogel M, Altmeyer L, Fuijisaki T, Jakubas D, et al. (**2022**) Post-foraging in-colony behaviour of a central-place foraging seabird. *Scientific Reports* 12: 12981. https://doi.org/10.1038/s41598-022-17307-8
 
+Boehnke R, Wichorowski M, Trudnowska E, Balazy K, Jakubas D, Wold A ... **Wojczulanis-Jakubas K**... et al (**2022**). Application of artificial neural network to estimate the quality of little auks’ potential foraging grounds on Spitsbergen. *Limnology and Oceanography* 20: 159–171. https://doi.org/10.1002/lom3.10478 
 
+**Wojczulanis-Jakubas K**, Jakubas D, Stempniewicz L (**2022**) The little auk Alle alle: an ecological indicator of a changing Arctic and a model organism. Polar Bioloty 45: 163–176. https://doi.org/10.1007/s00300-021-02981-7
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2021
+
+
+Fauchald P, Tarroux A, Amélineau F, Bråthen V, Descamps S, Ekker M, ... **Wojczulanis-Jakubas K**... et al (**2021**).  Year-round distribution of Northeast Atlantic seabird populations: applications for population management and marine spatial planning. *Marine Ecology Progress Series* 676: 255–276. https://doi.org/10.3354/meps13854
+
+
+Amélineau F, Merkel B, Tarroux A, Descamps S, Anker-Nilssen T, Bjørnstad O, ... **Wojczulanis-Jakubas K**... et al (**2021**). Six pelagic seabird species of the North Atlantic engage in a fly-and-forage strategy during their migratory movements. *Marine Ecology Progress Series* 676: 127–144. https://doi.org/10.3354/meps13872
+
+Descamps S, Merkel B, Strøm H, Choquet R, Steen H, Fort J,... **Wojczulanis-Jakubas K**... et al (**2021**). Sharing wintering grounds does not synchronize annual survival in a high Arctic seabird, the little auk. *Marine Ecology Progress Series* 676: 233–242. https://doi.org/10.3354/meps13400
+
+Dufour P, **Wojczulanis-Jakubas K**, Lavergne S, Renaud J, Jakubas D, Descamps S (**2021**) A two-fold increase in migration distance does not have breeding consequences in a long-distance migratory seabird with high flight costs. *Marine Ecology Progress Series* 676: 117–126. https://doi.org/10.3354/meps13535
+
+Jakubas D, **Wojczulanis-Jakubas K**, Powers A, Frazier T, Bottomley M, Kraszpulski M (**2021**) Differences in a cage escape behaviour between two migrating warblers of different stop-over strategy. *Animals* 11(3): 639. https://doi.org/10.3390/ani11030639
 
 
 ### Tidying up, to be continued...
 
-Boehnke R, Wichorowski M, Trudnowska E, Balazy K, Jakubas D, Wold A ... **Wojczulanis-Jakubas K**... et al (**2022**). Application of artificial neural network to estimate the quality of little auks’ potential foraging grounds on Spitsbergen. *Limnology and Oceanography* 20: 159–171. https://doi.org/10.1002/lom3.10478 
-
-12. Wojczulanis-Jakubas K, Jakubas D, Stempniewicz L. The little auk Alle alle: an ecological indicator of a changing Arctic and a model organism. Polar Biol. 2022;45: pages163–176. doi:10.1007/s00300-021-02981-7
-
-13. Fauchald P, Tarroux A, Amélineau F, Bråthen V, Descamps S, Ekker M, et al. Year-round distribution of Northeast Atlantic seabird populations: applications for population management and marine spatial planning. Mar Ecol Prog Ser. 2021;676: 255–276. doi:10.3354/meps13854
-14. Amélineau F, Merkel B, Tarroux A, Descamps S, Anker-Nilssen T, Bjørnstad O, et al. Six pelagic seabird species of the North Atlantic engage in a fly-and-forage strategy during their migratory movements. Mar Ecol Prog Ser. 2021;676: 127–144. doi:10.3354/meps13872
-15. Descamps S, Merkel B, Strøm H, Choquet R, Steen H, Fort J, et al. Sharing wintering grounds does not synchronize annual survival in a high Arctic seabird, the little auk. Mar Ecol Prog Ser. 2021;676: 233–242. doi:10.3354/meps13400
-16. Dufour P, Wojczulanis-Jakubas K, Lavergne S, Renaud J, Jakubas D, Descamps S. A two-fold increase in migration distance does not have breeding consequences in a long-distance migratory seabird with high flight costs. Mar Ecol Prog Ser. 2021;676: 117–126. doi:10.3354/meps13535
-17. Jakubas D, Wojczulanis-Jakubas K, Powers A, Frazier T, Bottomley M, Kraszpulski M. Differences in a cage escape behaviour between two migrating warblers of different stop-over strategy. Animals. 2021;11: 1–10. doi:doi.org/10.3390/ ani11030639
 18. Albert C, Helgason HH, Brault-Favrou M, Robertson GJ, Descamps S, Amélineau F, et al. Seasonal variation of mercury contamination in Arctic seabirds: A pan-Arctic assessment. Sci Total Environ. 2021;750: 142201. doi:10.1016/j.scitotenv.2020.142201
 19. Renedo M, Amouroux D, Be S, Helgason H, Jakubas D, Mosbech A, et al. Contrasting Spatial and Seasonal Trends of Methylmercury Exposure Pathways of Arctic Seabirds : Combination of Large-Scale Tracking and Stable Isotopic Approaches. Environ Sci Technol. 2020. doi:10.1021/acs.est.0c03285
 20. Wojczulanis-Jakubas K, Jiménez-Muñoz M, Jakubas D, Kidawa D, Karnovsky NJ, Cole D, et al. Duration of female parental care and their survival in the little auk Alle alle - are these two traits linked ? Behav Ecol Sociobiol. 2020;74: 1–11. doi:doi.org/10.1007/s00265-020-02862-9
