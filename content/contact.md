@@ -3,4 +3,4 @@ slug: contact
 title: Contact
 ---
 
-Contact me: kasiawojczulanis@gmail.com
+Contact me: katarzyna.wojczulanis-jakubas@ug.edu.pl

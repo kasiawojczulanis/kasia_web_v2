@@ -6,17 +6,10 @@ aliases:
 title: About
 ---
 
-Yuki' kahu
-
-This could be a long story, with some photos
-![ja](kasia_web_v2\ja.jpg)
-
-Jeszcze trochę tu dodam tekstu, bo coś nie chce się laczyć, przy okazji sprawdzę polskie znaki!
+I am behavioural ecologist, with a wide range of scientific interests and research on various animals species (see Projects and Publications). However, my special interest is reproductive behaviour and most of my studies I do on birds, with polar seabirds being my favorite group. 
 
 
-Coś tu nie działa, albo ja nie mam do tego cierpliwości...
-a jak w takim razie linkowanie?
+[My reserach group](https://polarecologygroup.wordpress.com/people/)
 
-[polar](https://polarecologygroup.wordpress.com/people/)
 
-No to jeszcze jedna próba na koniec, żeby te linki wypróbować, czy one działają czy nie
+**Keywords** that would "profile me" right now (it changes)? - behavioural ecologist, R enthusiast (probabaly never a master), Yuki' kahu
