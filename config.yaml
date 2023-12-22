@@ -34,6 +34,10 @@ params:
       name: Twitter
       url: https://twitter.com/wojczulanis13
       weight: 2
+    - icon: fa fa-2x fa-google-scholar
+      name: Google Scholar
+      url: https://scholar.google.pl/citations?user=oGgCQtYAAAAJ&hl=es
+      weight: 3
 taxonomies:
   author: authors
   category: categories
@@ -59,7 +63,7 @@ languages:
         - name: Contact me
           url: contact/
           weight: 5
+
     params:
       info: In order to see birds it is necessary to become a part of the silence -- Ys
       keywords: animal behaviour, breeding and non-breeding ecology
-    
