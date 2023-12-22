@@ -1,106 +1,223 @@
+Having an issue with an access to a paper **PDF?** **Contact me**:  katarzyna.wojczulanis-jakubas@ug.edu.pl
+
+
 # ![#1589F0](https://placehold.co/15x15/f03c15/f03c15.png) 2023
 
+Osiecka AN, Briefer EF, Kidawa D, **Wojczulanis-Jakubas K** (2023) Social calls of the little auk (Alle alle) reflect body size and possibly partnership, but not sex. *Royal Society Open Science* 10: 230845. [PDF](https://doi.org/10.1098/rsos.230845) 
 
-Osiecka AN, Briefer EF, Kidawa D, **Wojczulanis-Jakubas K** (2023) Social calls of the little auk (Alle alle) reflect body size and possibly partnership, but not sex. *Royal Society Open Science* 10: 230845. https://doi.org/10.1098/rsos.230845 
+Kidawa D, **Wojczulanis-Jakubas K**, Jakubas D, Palme R, Barcikowski M (**2023**) Mine or my neighbours ’ offspring: an experimental study on parental discrimination of offspring in a colonial seabird, the little auk Alle alle. *Scientific Report*  13: 15088. [PDF](https://doi.org/10.1038/s41598-023-41925-5)
 
-Kidawa D, **Wojczulanis-Jakubas K**, Jakubas D, Palme R, Barcikowski M (**2023**) Mine or my neighbours ’ offspring: an experimental study on parental discrimination of offspring in a colonial seabird, the little auk Alle alle. *Scientific Report*  13: 15088. https://doi.org/10.1038/s41598-023-41925-5
+Balazy K, Trudnowska E, **Wojczulanis-Jakubas K**, Jakubas D, Præbel K, Choquet M, et al (**2023**) Molecular tools prove little auks from Svalbard are extremely selective for Calanus glacialis even when exposed to Atlantification. *Scientific Reports* 13: 13647 [PDF](https://doi.org/10.1038/s41598-023-40131-7)
 
-Balazy K, Trudnowska E, **Wojczulanis-Jakubas K**, Jakubas D, Præbel K, Choquet M, et al (**2023**) Molecular tools prove little auks from Svalbard are extremely selective for Calanus glacialis even when exposed to Atlantification. *Scientific Reports* 13: 13647 https://doi.org/10.1038/s41598-023-40131-7
+Jakubas D, **Wojczulanis-Jakubas K**, Petersen A (**2023**) A quiet extirpation of the breeding little auk Alle alle population in Iceland in the shadow of the famous cousin extermination. *Science of Total Environment* 808: 152167. [PDF](https://doi.org/10.1002/ecy.4034)
 
-Jakubas D, **Wojczulanis-Jakubas K**, Petersen A (**2023**) A quiet extirpation of the breeding little auk Alle alle population in Iceland in the shadow of the famous cousin extermination. *Science of Total Environment* 808: 152167. https://doi.org/10.1002/ecy.4034
+Grunst ML, Grunst AS, David G, Kato A, Bustamante P, Albert C, ... **Wojczulanis-Jakubas K**, .. et al (**2023**) A keystone avian predator faces elevated energy expenditure in a warming Arctic Melissa. *Ecology* 104 (5): e4034. [PDF](https://doi.org/10.1002/ecy.4034)
 
-Grunst ML, Grunst AS, David G, Kato A, Bustamante P, Albert C, ... **Wojczulanis-Jakubas K**, .. et al (**2023**) A keystone avian predator faces elevated energy expenditure in a warming Arctic Melissa. *Ecology* 104 (5): e4034. https://doi.org/10.1002/ecy.4034
+**Wojczulanis-Jakubas K**, Araya-Salas M (2023) Foraging, Fear and Behavioral Variation in a Traplining Hummingbird. *Animals* 13: 1–12. [PDF](https://doi.org/10.3390/ ani13121997)
 
-**Wojczulanis-Jakubas K**, Araya-Salas M (2023) Foraging, Fear and Behavioral Variation in a Traplining Hummingbird. *Animals* 13: 1–12. https://doi.org/10.3390/ ani13121997
+Wysocki D, Wawryniuk K, Cieślińska K, **Wojczulanis-Jakubas K**. Adoption and feeding of fieldfare nestlings and fledglings by European blackbird. *Ecology and Evolution* 13. [PDF](https://doi.org/10.1002/ece3.10169)
 
-Wysocki D, Wawryniuk K, Cieślińska K, **Wojczulanis-Jakubas K**. Adoption and feeding of fieldfare nestlings and fledglings by European blackbird. *Ecology and Evolution* 13. https://doi.org/10.1002/ece3.10169
+Grunst AS, Grunst ML, Gr D, Kato A, Bustamante P, Albert C, ... **Wojczulanis-Jakubas K**, .. et al (**2023**) Mercury contamination challenges the behavioral response of a keystone species to Arctic climate change. *Environmental Science and Technology* 57: 2054–2063. [PDF](https://doi.org/10.1021/acs.est.2c08893)
 
-Grunst AS, Grunst ML, Gr D, Kato A, Bustamante P, Albert C, ... **Wojczulanis-Jakubas K**, .. et al (**2023**) Mercury contamination challenges the behavioral response of a keystone species to Arctic climate change. *Environmental Science and Technology* 57: 2054–2063. https://doi.org/10.1021/acs.est.2c08893
+Grissot A, Borrel C, Devogel M, Altmeyer L, Johansen MK, Strøm H, **Wojczulanis-Jakubas K** (**2023**) Use of geolocators for investigating breeding ecology of a rock crevice‐nesting seabird: Method validation and impact assessment. *Ecology and Evolution* 13: 1–14. [PDF](https://doi.org/10.1002/ece3.9846)
 
-Grissot A, Borrel C, Devogel M, Altmeyer L, Johansen MK, Strøm H, **Wojczulanis-Jakubas K** (**2023**) Use of geolocators for investigating breeding ecology of a rock crevice‐nesting seabird: Method validation and impact assessment. *Ecology and Evolution* 13: 1–14. https://doi.org/10.1002/ece3.9846
 
+<br>
 
 # ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2022
 
 
-Chastel O, Fort J, Ackerman JT, Albert C, Angelier F, Basu N, ... **Wojczulanis-Jakubas K**... et al (**2022**) Mercury contamination and potential health risks to Arctic seabirds and shorebirds. Science of Total Environment 844: 156944. https://doi.org/10.1016/j.scitotenv.2022.156944
+Chastel O, Fort J, Ackerman JT, Albert C, Angelier F, Basu N, ... **Wojczulanis-Jakubas K**... et al (**2022**) Mercury contamination and potential health risks to Arctic seabirds and shorebirds. Science of Total Environment 844: 156944. [PDF](https://doi.org/10.1016/j.scitotenv.2022.156944)
 
-Jakubas D, **Wojczulanis-Jakubas K**, Szeligowska M, Darecki M, Boehnke R, Balazy K, et al (**2022**) Gone with the wind – Wind speed affects prey accessibility for a High Arctic zooplanktivorous seabird, the little auk Alle alle. *Science of Total Environment* 852:  158533. https://doi.org/10.1016/j.scitotenv.2022.158533
+Jakubas D, **Wojczulanis-Jakubas K**, Szeligowska M, Darecki M, Boehnke R, Balazy K, et al (**2022**) Gone with the wind – Wind speed affects prey accessibility for a High Arctic zooplanktivorous seabird, the little auk Alle alle. *Science of Total Environment* 852:  158533. [PDF](https://doi.org/10.1016/j.scitotenv.2022.158533)
 
-Jakubas D, **Wojczulanis-Jakubas K**, Grissot A, Devogel M, Cendrowska M, Chastel O (**2022**). Eye Region Surface Temperature and Corticosterone Response to Acute Stress in a High-Arctic Seabird, the Little Auk. *Animals* 12 (4): 499. https://doi.org/10.3390/ani12040499
+Jakubas D, **Wojczulanis-Jakubas K**, Grissot A, Devogel M, Cendrowska M, Chastel O (**2022**). Eye Region Surface Temperature and Corticosterone Response to Acute Stress in a High-Arctic Seabird, the Little Auk. *Animals* 12 (4): 499. [PDF](https://doi.org/10.3390/ani12040499)
 
-Descamps S, **Wojczulanis-Jakubas K**, Jakubas D, Vihtakari M, Steen H, Karnovsky NJ, et al  (**2022**) Consequences of Atlantification on a Zooplanktivorous Arctic Seabird. *Frontiers in Marine Science* 9: 1–14. https://doi.org/10.3389/fmars.2022.878746 
+Descamps S, **Wojczulanis-Jakubas K**, Jakubas D, Vihtakari M, Steen H, Karnovsky NJ, et al  (**2022**) Consequences of Atlantification on a Zooplanktivorous Arctic Seabird. *Frontiers in Marine Science* 9: 1–14. [PDF](https://doi.org/10.3389/fmars.2022.878746) 
 
-**Wojczulanis-Jakubas K**, Grissot A, Devogel M, Altmeyer L, Fuijisaki T, Jakubas D, et al. (**2022**) Post-foraging in-colony behaviour of a central-place foraging seabird. *Scientific Reports* 12: 12981. https://doi.org/10.1038/s41598-022-17307-8
+**Wojczulanis-Jakubas K**, Grissot A, Devogel M, Altmeyer L, Fuijisaki T, Jakubas D, et al. (**2022**) Post-foraging in-colony behaviour of a central-place foraging seabird. *Scientific Reports* 12: 12981. [PDF](https://doi.org/10.1038/s41598-022-17307-8)
 
-Boehnke R, Wichorowski M, Trudnowska E, Balazy K, Jakubas D, Wold A ... **Wojczulanis-Jakubas K**... et al (**2022**). Application of artificial neural network to estimate the quality of little auks’ potential foraging grounds on Spitsbergen. *Limnology and Oceanography* 20: 159–171. https://doi.org/10.1002/lom3.10478 
+Boehnke R, Wichorowski M, Trudnowska E, Balazy K, Jakubas D, Wold A ... **Wojczulanis-Jakubas K**... et al (**2022**). Application of artificial neural network to estimate the quality of little auks’ potential foraging grounds on Spitsbergen. *Limnology and Oceanography* 20: 159–171. [PDF](https://doi.org/10.1002/lom3.10478) 
 
-**Wojczulanis-Jakubas K**, Jakubas D, Stempniewicz L (**2022**) The little auk Alle alle: an ecological indicator of a changing Arctic and a model organism. Polar Bioloty 45: 163–176. https://doi.org/10.1007/s00300-021-02981-7
+**Wojczulanis-Jakubas K**, Jakubas D, Stempniewicz L (**2022**) The little auk Alle alle: an ecological indicator of a changing Arctic and a model organism. Polar Bioloty 45: 163–176. [PDF](https://doi.org/10.1007/s00300-021-02981-7)
 
+
+<br>
 
 # ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2021
 
-
-Fauchald P, Tarroux A, Amélineau F, Bråthen V, Descamps S, Ekker M, ... **Wojczulanis-Jakubas K**... et al (**2021**).  Year-round distribution of Northeast Atlantic seabird populations: applications for population management and marine spatial planning. *Marine Ecology Progress Series* 676: 255–276. https://doi.org/10.3354/meps13854
-
-
-Amélineau F, Merkel B, Tarroux A, Descamps S, Anker-Nilssen T, Bjørnstad O, ... **Wojczulanis-Jakubas K**... et al (**2021**). Six pelagic seabird species of the North Atlantic engage in a fly-and-forage strategy during their migratory movements. *Marine Ecology Progress Series* 676: 127–144. https://doi.org/10.3354/meps13872
-
-Descamps S, Merkel B, Strøm H, Choquet R, Steen H, Fort J,... **Wojczulanis-Jakubas K**... et al (**2021**). Sharing wintering grounds does not synchronize annual survival in a high Arctic seabird, the little auk. *Marine Ecology Progress Series* 676: 233–242. https://doi.org/10.3354/meps13400
-
-Dufour P, **Wojczulanis-Jakubas K**, Lavergne S, Renaud J, Jakubas D, Descamps S (**2021**) A two-fold increase in migration distance does not have breeding consequences in a long-distance migratory seabird with high flight costs. *Marine Ecology Progress Series* 676: 117–126. https://doi.org/10.3354/meps13535
-
-Jakubas D, **Wojczulanis-Jakubas K**, Powers A, Frazier T, Bottomley M, Kraszpulski M (**2021**) Differences in a cage escape behaviour between two migrating warblers of different stop-over strategy. *Animals* 11(3): 639. https://doi.org/10.3390/ani11030639
-
-Albert C, Helgason HH, Brault-Favrou M, Robertson GJ, Descamps S, Amélineau F, Danielsen J, Dietz R, Elliott K, Erikstad EK, Eulaers I, Ezhov A, FitzsimmonsMG, Gavrilo M, Golubova E, Grémillet D, Hatch S, Huffeldt NP, Jakubas D, Kitaysky A, Kolbeinsson Y, Krasnov Y, Lorentsen S-H, Lorentzen E, Mallory ML, Merkel B, Merkel FR, Montevecchi W, Mosbech A, Olsen B, Orben RA, Patterson A, Provencher J, Plumejeaud Ch, Pratte I, Reiertsen TK, Renner H, Rojek N, Romano M, Strøm H, Systad GH, Takahashi A, Thiebot JB, Thórarinsson TL, Will AP, **Wojczulanis-Jakubas K** Bustamante P, Fort F (**2021**)  Seasonal variation of mercury contamination in Arctic seabirds: A pan-Arctic assessment. *Science of Total Environment* 750: 142201. https://doi:10.1016/j.scitotenv.2020.142201
+Fauchald P, Tarroux A, Amélineau F, Bråthen V, Descamps S, Ekker M, ... **Wojczulanis-Jakubas K**... et al (**2021**).  Year-round distribution of Northeast Atlantic seabird populations: applications for population management and marine spatial planning. *Marine Ecology Progress Series* 676: 255–276. [PDF](https://doi.org/10.3354/meps13854)
 
 
+Amélineau F, Merkel B, Tarroux A, Descamps S, Anker-Nilssen T, Bjørnstad O, ... **Wojczulanis-Jakubas K**... et al (**2021**). Six pelagic seabird species of the North Atlantic engage in a fly-and-forage strategy during their migratory movements. *Marine Ecology Progress Series* 676: 127–144. [PDF](https://doi.org/10.3354/meps13872)
+
+Descamps S, Merkel B, Strøm H, Choquet R, Steen H, Fort J,... **Wojczulanis-Jakubas K**... et al (**2021**). Sharing wintering grounds does not synchronize annual survival in a high Arctic seabird, the little auk. *Marine Ecology Progress Series* 676: 233–242. [PDF](https://doi.org/10.3354/meps13400)
+
+Dufour P, **Wojczulanis-Jakubas K**, Lavergne S, Renaud J, Jakubas D, Descamps S (**2021**) A two-fold increase in migration distance does not have breeding consequences in a long-distance migratory seabird with high flight costs. *Marine Ecology Progress Series* 676: 117–126. [PDF](https://doi.org/10.3354/meps13535)
+
+Jakubas D, **Wojczulanis-Jakubas K**, Powers A, Frazier T, Bottomley M, Kraszpulski M (**2021**) Differences in a cage escape behaviour between two migrating warblers of different stop-over strategy. *Animals* 11(3): 639. [PDF](https://doi.org/10.3390/ani11030639)
+
+Albert C, Helgason HH, Brault-Favrou M, Robertson GJ, Descamps S, Amélineau F, Danielsen J, Dietz R, Elliott K, Erikstad EK, Eulaers I, Ezhov A, FitzsimmonsMG, Gavrilo M, Golubova E, Grémillet D, Hatch S, Huffeldt NP, Jakubas D, Kitaysky A, Kolbeinsson Y, Krasnov Y, Lorentsen S-H, Lorentzen E, Mallory ML, Merkel B, Merkel FR, Montevecchi W, Mosbech A, Olsen B, Orben RA, Patterson A, Provencher J, Plumejeaud Ch, Pratte I, Reiertsen TK, Renner H, Rojek N, Romano M, Strøm H, Systad GH, Takahashi A, Thiebot JB, Thórarinsson TL, Will AP, **Wojczulanis-Jakubas K** Bustamante P, Fort F (**2021**)  Seasonal variation of mercury contamination in Arctic seabirds: A pan-Arctic assessment. *Science of Total Environment* 750: 142201. [PDF](https://doi:10.1016/j.scitotenv.2020.142201)
+
+
+<br>
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2020
+
+Renedo M, Amouroux D, Be S, Helgason H, Jakubas D, Mosbech A, Strøm H, Tessier E, **Wojczulanis-Jakubas K**, Bustamante P, Fort J (**2020**) Contrasting spatial and seasonal trends of methylmercury exposure pathways of Arctic seabirds: Combination of large-scale tracking and stable isotopic approaches. *Environmental Science & Technology* 54, 21: 13619–13629. [PDF](https://doi:10.1021/acs.est.0c03285)
+
+**Wojczulanis-Jakubas K**, Jiménez-Muñoz M, Jakubas D, Kidawa D, Karnovsky NJ, Cole D, et al. Duration of female parental care and their survival in the little auk Alle alle - are these two traits linked? *Behavioral Ecology and Sociobiology* 74, 82. [PDF](https://doi:doi.org/10.1007/s00265-020-02862-9)
+
+Pacyna-Kuchta AD, Jakubas D, Frankowski M, Polkowska Ż, **Wojczulanis-Jakubas K** (**2020**) Exposure of a small Arctic seabird, the little auk (Alle alle) breeding in Svalbard, to selected elements throughout the course of a year. *Science of Total Environment* 732, 25: 139103. [PDF](https://doi:10.1016/j.scitotenv.2020.139103)
+
+Ausems ANMA, Skrzypek G, **Wojczulanis-Jakubas K**, Jakubas D (**2020**) Sharing menus and kids’ specials: Inter- and intraspecific differences in stable isotope niches between sympatrically breeding storm-petrels. *Science of Total Environment* 728: 138768. [PDF](https://doi:10.1016/j.scitotenv.2020.138768)
+
+**Wojczulanis-Jakubas K**, Waz P, Jakubas D (**2020**). Little auks under the midnight sun: diel activity rhythm of a small diving seabird during the Arctic summer. *Polar Research* 39: 1–9. [PDF](https://doi.org/10.33265/polar.v39.3309)
+
+<br>
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2019
+
+Pacyna AD, Jakubas D, Ausems ANMA, Frankowski M, Polkowska Ż, **Wojczulanis-Jakubas K** (**2019**). Storm petrels as indicators of pelagic seabird exposure to chemical elements in the Antarctic marine ecosystem. *Science of Total Environment* 692, 20: 382–392. [PDF](https://doi:10.1016/j.scitotenv.2019.07.137)
+
+**Wojczulanis-Jakubas K**, Plenzler J, Jakubas D (**2019**) Indications of contagious behaviours in the southern elephant seal: an observational study. *Behaviour* 156: 59–77. [PDF](https://doi:10.1163/1568539X-00003530)
+
+Keslinka LK, **Wojczulanis-Jakubas K**, Jakubas D, Neubauer G (**2019**) Determinants of the little auk (Alle alle) breeding colony location and size in W and NW coast of Spitsbergen. *PLoS One* 14: e0212668. [PDF](https://doi:10.1371/journal.pone.0212668)
+
+Grissot A, Araya-Salas M, Jakubas D, Kidawa D, Boehnke R, Błachowiak-Samołyk K, **Wojczulanis-Jakubas K** (**2019**)  Parental coordination of chick provisioning in a planktivorous Arctic seabird under divergent conditions on foraging grounds. Frontiers in Ecology and Evolution 7. [PDF](https://doi:10.3389/fevo.2019.00349) 
+
+Part of the Research Topic: *Cooperation and Coordination in the Family* - [special issue](https://www.frontiersin.org/research-topics/8664/cooperation-and-coordination-in-the-family#articles)
+
+Ausems ANMA, **Wojczulanis-Jakubas K**, Jakubas D (**2019**). Differences in tail feather growth rate in storm-petrels breeding in the Northern and Southern hemisphere: a ptilochronological approach. *PeerJ* 7: e7807. [PDF](https://doi:10.7717/peerj.7807)
+
+Michielsen RJ, Ausems ANMA, Jakubas D, Petlicki M, Plenzler J, Shamoun-Baranes J, **Wojczulanis-Jakubas K** (**2019**) Nest characteristics determine nest microclimate and affect breeding output in an antarctic seabird, the wilson’s storm-petrel. *PLoS One* 14: 1–23. . [PDF](https://doi:10.1371/journal.pone.0217708)
+
+<br>
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2018
+
+Pestka Z, Jakubas D, **Wojczulanis-Jakubas K** (**2018**) Habitat preferences of Red-backed Shrikes Lanius collurio and Barred Warblers Sylvia nisoria breeding sympatrically in a wetland/farmland mosaic. *Bird Study* 65, 3: 317-328. [PDF](https://doi:10.1080/00063657.2018.1503996)
+
+Kulaszewicz I, **Wojczulanis-Jakubas K**, Jakubas D (**2018**). Breeding phased dependent oxidative balance in a small High Arctic seabird, the little auk. *Journal of Avian Biology* 49: e01702. [PDF](https://doi.org/10.1111/jav.01702)
+
+Araya-Salas M, Gonzalez-Gomez P, **Wojczulanis-Jakubas K**, López V, Wright TF (**2018**). Spatial memory is as important as weapon and body size for territorial ownership in a lekking hummingbird. *Scientific Reports* 8, 2001. [PDF](doi:10.1038/s41598-018-20441-x)
+
+<br>
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2017
+
+Boehnke R, Balazy K, Jakubas D, **Wojczulanis-Jakubas K**, Błachowiak-Samołyk K (**2017**). Meso-scale variations in diet composition of little auk chicks in north-west spitsbergen. *Polar Research* 36. [PDF](https://doi:10.1080/17518369.2017.1409585)
+
+**Wojczulanis-Jakubas K**, Chrostek ME, Jiguet F, Martínez CZ, Miguélez D, Neto JM (**2017**) Differential timing and latitudinal variation in sex ratio of Aquatic Warblers during the autumn migration. *The Science of Nature* 104, 101. [PDF](https://doi:10.1007/s00114-017-1525-x)
+
+Pacyna AD, Martínez CZ, Miguélez D, Jiguet F, Polkowska Ż, **Wojczulanis-Jakubas K** (**2017**). Mercury contamination, a potential threat to the globally endangered aquatic warbler Acrocephalus paludicola. *Environmental Science and Pollution Research* 24: 26478–26484. [PDF](https://doi:10.1007/s11356-017-0201-1)
+
+Araya-Salas M, **Wojczulanis-Jakubas K**, Phillips EM, Mennill DJ, Wright TF (**2017**). To overlap or not to overlap: context-dependent coordinated singing in lekking long-billed hermits. *Animal Behaviour* 124: 57-64. [PDF](https:// doi:10.1016/j.anbehav.2016.12.003)
+
+<br>
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2016
+
+Dynowska M, Biedunkiewicz A, Ejdys E, Sucharzewska E, Kubiak D, Meissner W, **Wojczulanis-Jakubas**, K, Dziekonska-Rynko J, Goralska K, Rokicki J (**2016**) The role of wild fowl in the circulation of potentially pathogenic fungi in the biosphere. Annals of Parasitology 62 Suppl. 
+
+Kulaszewicz I, **Wojczulanis-Jakubas K**, Jakubas D (**2016**) Trade-offs between reproduction and self-maintenance (immune function and body mass) in a small seabird, the little auk. *Journal of Avian Biology* 48: 371-379. [PDF](https://doi:10.1111/jav.01000)
+
+**Wojczulanis-Jakubas K**, Wietrzykowski J, Jakubas D  (**2016**) Response of reed warbler and sedge warbler to acoustic playback in relation to age, sex, and body condition. *Journal of Ornithology* 157: 137–143. [PDF](https://doi:10.1007/s10336-015-1260-z)
+
+Minias P, **Wojczulanis-Jakubas K**, Rutkowski R, Kaczmarek K, Janiszewski T. (**2016**) Spatial patterns of extra-pair paternity in a waterbird colony: separating the effects of nesting density and nest site location. *Behavioral Ecology and Sociobiology* 70: 369–376. [PDF](https://doi:10.1007/s00265-015-2056-0)
+
+**Wojczulanis-Jakubas K**, Jakubas D, Kosmicka A (**2016**). Body mass and physiological variable of incubatig males and females in the European Storm Petrel. *Wilson Journal of Ornithology* 128: 487–493. [PDF](https://doi:10.1676/1559-4491-128.3.487)
+
+<br>
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2015
+
+Zawierucha K, Cytan J, Smykla J, **Wojczulanis-Jakubas K**, Kaczmarek Ł, Kosicki JZ, Michalczyk Ł (**2015**) Seabird guano boosts body size of water bears (Tardigrada) inhabiting the arctic tundra. *Polar Biology* 38: 579–582. [PDF](doi:10.1007/s00300-014-1591-x)
+
+Zawierucha K, Zmudczyńska-Skarbek K, Kaczmarek Ł, **Wojczulanis-Jakubas K** (**2015**). The influence of a seabird colony on abundance and species composition of water bears (Tardigrada) in Hornsund (Spitsbergen, Arctic). *Polar Biology* 39: 713–723. [PDF](https://doi:10.1007/s00300-015-1827-4)
+
+Kulaszewicz I, **Wojczulanis-Jakubas K**, Jakubas D (**2015**). Variation of the Savi’s warbler (Locustella luscinioides) leucocytes profiles and body condition in relation to age, sex and moult. *Annales Zoologici Fennici* 52 (5-6): 325–338. [PDF](https://doi:10.5735/086.052.0507)
+
+<br>
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2012
+
+Jakubas D, Iliszko L, **Wojczulanis-Jakubas K**, Stempniewicz L (**2012**). Foraging by little auks in the distant marginal sea ice zone during the chick-rearing period. *Polar Biology* 35: 73–81. [PDF](https://doi:10.1007/s00300-011-1034-x)
+
+<br>
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2011
+
+<br>
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2010
+
+**Wojczulanis-Jakubas K**, Jakubas D (**2010**) Supernormal clutch incubated by Dovekie Alle alle. *Waterbirds* 33: 411–414. [PDF](https://doi:10.1675/063.033.0320)
+
+Kwasniewski S, Gluchowska M, Jakubas D, **Wojczulanis-Jakubas K**, Walkusz W, Karnovsky N, Błachowiak-Samołyk K, Cisek M, Stempniewicz L (**2010**) The impact of different hydrographic conditions and zooplankton communities on provisioning Little Auks along the West coast of Spitsbergen. *Progress in Oceanography* 87: 72–82. [PDF](https://doi:10.1016/j.pocean.2010.06.004)
+
+Jakubas D, **Wojczulanis-Jakubas K** (**2010**) Sex-and age-related differences in the timing and body condition of migrating Reed Warblers Acrocephalus scirpaceus and Sedge Warblers Acrocephalus schoenobaenus. *Naturwissenschaften* 97: 505–511. [PDF](https://doi:10.1007/s00114-010-0666-y)
+
+Jakubas D, **Wojczulanis-Jakubas K** (**2010**) Glaucous Gull Predation on Dovekies Three New Hunting Methods. *Arctic* 63: 468–470. [PDF](https://www.jstor.org/stable/20799626)
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2009
+
+Jakubas D, **Wojczulanis K** (**2009**) Long handling time of a big prey – Great Reed Warbler Acrocephalus arundinaceus foraging on frog. **Ornis Svecica** 19: 56–57. [PDF](https://doi:10.34080/os.v19.22661)
+
+**Wojczulanis-Jakubas K**, Jakubas D, Karnovsky NJ, Walkusz W (**2009**) Foraging strategy of little auks under divergent conditions on feeding grounds. *Polar Research* 29: 22–29. [PDF](https://doi:10.1111/j.1751-8369.2009.00145.x)
+
+**Wojczulanis-Jakubas K**, Jakubas D, Stempniewicz L (**2009**). Sex-specific parental care by incubating Little Auks (Alle alle). *Ornis Fennica* 86: 140–148.[PDF](https://ornisfennica.journal.fi/article/view/133735) 
+
+<br>
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2008
+
+Jakubas D, Zmudczyńska K, **Wojczulanis‐Jakubas **K, Stempniewicz L (**2008**) Faeces deposition and numbers of vertebrate herbivores in the vicinity of planktivorous and piscivorous seabird colonies in Hornsund , Spitsbergen. *Polish Polar Research* 29: 45–58. [PDF](https://journals.pan.pl/publication/126695/edition/110564/polish-polar-research-2008-vol-29-no-1-faeces-deposition-and-numbers-of-vertebrate-herbivores-in-the-vicinity-of-planktivorous-and-piscivorous-seabird-colonies-in-hornsund-spitsbergen-jakubas-dariusz-zmudczynska-katarzyna-wojczulanis-jakubas-katarzyna-stempniewicz-lech)
+
+
+**Wojczulanis-Jakubas K**, Jakubas D, Stempniewicz L (**2008**). Avifauna of Hornsund area, SW Spitsbergen: present state and recent changes. *Polish Polar Research* 29: 187–197. [PDF](https://journals.pan.pl/dlibra/publication/126705/edition/110573/content/polish-polar-research-2008-vol-29-avifauna-of-hornsund-area-sw-spitsbergen-present-state-and-recent-changes-wojczulanis-jakubas-katarzyna-jakubas-dariusz-stempniewicz-lech-no-2?language=pl)
 
 
 
-### Tidying up, to be continued...
+<br>
 
-19. Renedo M, Amouroux D, Be S, Helgason H, Jakubas D, Mosbech A, et al. Contrasting Spatial and Seasonal Trends of Methylmercury Exposure Pathways of Arctic Seabirds : Combination of Large-Scale Tracking and Stable Isotopic Approaches. Environ Sci Technol. 2020. doi:10.1021/acs.est.0c03285
-20. Wojczulanis-Jakubas K, Jiménez-Muñoz M, Jakubas D, Kidawa D, Karnovsky NJ, Cole D, et al. Duration of female parental care and their survival in the little auk Alle alle - are these two traits linked ? Behav Ecol Sociobiol. 2020;74: 1–11. doi:doi.org/10.1007/s00265-020-02862-9
-21. Pacyna-Kuchta AD, Jakubas D, Frankowski M, Polkowska Ż, Wojczulanis-Jakubas K. Exposure of a small Arctic seabird, the little auk (Alle alle) breeding in Svalbard, to selected elements throughout the course of a year. Sci Total Environ. 2020;732. doi:10.1016/j.scitotenv.2020.139103
-22. Ausems ANMA, Skrzypek G, Wojczulanis-Jakubas K, Jakubas D. Sharing menus and kids’ specials: Inter- and intraspecific differences in stable isotope niches between sympatrically breeding storm-petrels. Sci Total Environ. 2020;728: 138768. doi:10.1016/j.scitotenv.2020.138768
-23. Pacyna AD, Jakubas D, Ausems ANMA, Frankowski M, Polkowska Ż, Wojczulanis-Jakubas K. Storm petrels as indicators of pelagic seabird exposure to chemical elements in the Antarctic marine ecosystem. Sci Total Environ. 2019;692: 382–392. doi:10.1016/j.scitotenv.2019.07.137
-24. Wojczulanis-Jakubas K, Waz P, Jakubas D. Little auks under the midnight sun: diel activity rhythm of a small diving seabird during the Arctic summer. Polar Res. 2020;39: 1–9. 
-25. Wojczulanis-Jakubas K, Plenzler J, Jakubas D. Indications of contagious behaviours in the southern elephant seal : an observational study. Behaviour. 2019;156: 59–77. doi:10.1163/1568539X-00003530
-26. Keslinka KL, Wojczulanis-Jakubas K, Jakubas D, Neubauer G. Determinants of the little auk (Alle alle) breeding colony location and size in W and NW coast of Spitsbergen. PLoS One. 2019;14: e0212668. doi:10.1371/journal.pone.0212668
-27. Grissot A, Araya-Salas M, Jakubas D, Kidawa D, Boehnke R, Błachowiak-Samołyk K, et al. Parental Coordination of Chick Provisioning in a Planktivorous Arctic Seabird Under Divergent Conditions on Foraging Grounds. Front Ecol Evol. 2019;7. doi:10.3389/fevo.2019.00349
-28. Ausems ANMA, Wojczulanis-Jakubas K, Jakubas D. Differences in tail feather growth rate in storm-petrels breeding in the Northern and Southern hemisphere: a ptilochronological approach. PeerJ. 2019;7: e7807. doi:10.7717/peerj.7807
-29. Michielsen RJ, Ausems ANMA, Jakubas D, Petlicki M, Plenzler J, Shamoun-Baranes J, et al. Nest characteristics determine nest microclimate and affect breeding output in an antarctic seabird, the wilson’s storm-petrel. PLoS One. 2019;14: 1–23. doi:10.1371/journal.pone.0217708
-30. Dynowska M, Biedunkiewicz A, Ejdys E, Sucharzewska E, Kubiak D, Meissner W, et al. The role of wild fowl in the circulation of potentially pathogenic fungi in the biosphere. Ann Parasitol. 2016;62: 2016. 
-31. Pestka Z, Jakubas D, Wojczulanis-Jakubas K. Habitat preferences of Red-backed Shrikes Lanius collurio and Barred Warblers Sylvia nisoria breeding sympatrically in a wetland/farmland mosaic. Bird Study. 2018;0: 1–12. doi:10.1080/00063657.2018.1503996
-32. Kulaszewicz I, Wojczulanis-Jakubas K, Jakubas D. Breeding phased dependent oxidative balance in a small High Arctic seabird, the little auk. J Avian Biol. 2018;49: e01702. Available: https://doi.org/10.1111/jav.01702
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2007
 
-33. Boehnke R, Balazy K, Jakubas D, Wojczulanis-Jakubas K, Błachowiak-Samołyk K. Meso-scale variations in diet composition of little auk chicks in north-west spitsbergen. Polar Res. 2017;36. doi:10.1080/17518369.2017.1409585
+Jakubas D, **Wojczulanis-Jakubas K**, Walkusz W (**2007**). Response of dovekie to changes in food. *Waterbirds* 30, 3: 421–428. [PDF](https://doi:10.1675/1524-4695)
 
-34. Araya-Salas M, Gonzalez-Gomez P, Wojczulanis-Jakubas K, López V, Wright TF. Spatial memory is as important as weapon and body size for territorial ownership in a lekking hummingbird. Sci Rep. 2018;8. doi:10.1038/s41598-018-20441-x
-35. Wojczulanis-Jakubas K, Chrostek ME, Jiguet F, Martínez CZ, Miguélez D, Neto JM. Differential timing and latitudinal variation in sex ratio of Aquatic Warblers during the autumn migration. Sci Nat. 2017;104. doi:10.1007/s00114-017-1525-x
-36. Pacyna AD, Martínez CZ, Miguélez D, Jiguet F, Polkowska Ż, Wojczulanis-Jakubas K. Mercury contamination, a potential threat to the globally endangered aquatic warbler Acrocephalus paludicola. Environ Sci Pollut Res. 2017;24: 26478–26484. doi:10.1007/s11356-017-0201-1
-37. Araya-Salas M, Wojczulanis-Jakubas K, Phillips EM, Mennill DJ, Wright TF. To overlap or not to overlap: context-dependent coordinated singing in lekking long-billed hermits. Anim Behav. 2017;124. doi:10.1016/j.anbehav.2016.12.003
-38. Kulaszewicz I, Wojczulanis-Jakubas K, Jakubas D. Trade-offs between reproduction and self-maintenance (immune function and body mass) in a small seabird, the little auk. J Avian Biol. 2016;47: 1–9. doi:10.1111/jav.01000
-39. Wojczulanis-Jakubas K, Wietrzykowski J, Jakubas D. Response of reed warbler and sedge warbler to acoustic playback in relation to age, sex, and body condition. J Ornithol. 2016;157: 137–143. doi:10.1007/s10336-015-1260-z
-40. Minias P, Wojczulanis-Jakubas K, Rutkowski R, Kaczmarek K, Janiszewski T. Spatial patterns of extra-pair paternity in a waterbird colony: separating the effects of nesting density and nest site location. Behav Ecol Sociobiol. 2016;70: 369–376. doi:10.1007/s00265-015-2056-0
-41. Wojczulanis-Jakubas K, Jakubas D, Kosmicka A. Body mass and physiological variable of incubatig males and females in the European Storm Petrel. Wilson J Ornithol. 2016;128: 487–493. doi:10.1676/1559-4491-128.3.487
-42. Zawierucha K, Cytan J, Smykla J, Wojczulanis-Jakubas K, Kaczmarek Ł, Kosicki JZ, et al. Seabird guano boosts body size of water bears (Tardigrada) inhabiting the arctic tundra. Polar Biol. 2015;38: 579–582. doi:10.1007/s00300-014-1591-x
-43. Jakubas D, Iliszko L, Wojczulanis-Jakubas K, Stempniewicz L. Foraging by little auks in the distant marginal sea ice zone during the chick-rearing period. Polar Biol. 2012;35: 73–81. doi:10.1007/s00300-011-1034-x
-44. Jakubas, Dariusz; Wojczulanis K. Long handling time of a big prey – Great Reed Warbler Acrocephalus arundinaceus foraging on frog. Ornis Svecica. 2009;19: 56–57. doi:10.34080/os.v19.22661
-45. Wojczulanis K, Jakubas D, Stempniewicz L. Exploitation by the Grey Heron of fish regurgitated by Cormorants. Waterbirds. 2005;28: 225–229. doi:10.1675/1524-4695(2005)028[0225:EBTGHO]2.0.CO;2
-46. Zawierucha K, Zmudczyńska-Skarbek K, Kaczmarek Ł, Wojczulanis-Jakubas K. The influence of a seabird colony on abundance and species composition of water bears (Tardigrada) in Hornsund (Spitsbergen, Arctic). Polar Biol. 2015;39: 713–723. doi:10.1007/s00300-015-1827-4
-47. Wojczulanis K, Jakubas D, Walkusz W, Wennerberg L. Differences in food delivered to chicks by males and females of little auks (Alle alle) on South Spitsbergen. J Ornithol. 2006;147: 543–548. doi:10.1007/s10336-006-0077-1
-48. Jakubas D, Zmudczyńska K, Wojczulanis‐Jakubas K, Stempniewicz L. Faeces deposition and numbers of vertebrate herbivores in the vicinity of planktivorous and piscivorous seabird colonies in Hornsund , Spitsbergen. Polish Polar Res. 2008;29: 45–58. 
-49. Wojczulanis-Jakubas K, Jakubas D. Supernormal Clutch Incubated by Dovekie Alle alle. Waterbirds. 2010;33: 411–414. doi:10.1675/063.033.0320
-50. Wojczulanis-Jakubas K, Jakubas D, Karnovsky NJ, Walkusz W. Foraging strategy of little auks under divergent conditions on feeding grounds. Polar Res. 2010;29: 22–29. doi:10.1111/j.1751-8369.2009.00145.x
-51. Kwasniewski S, Gluchowska M, Jakubas D, Wojczulanis-Jakubas K, Walkusz W, Karnovsky N, et al. The impact of different hydrographic conditions and zooplankton communities on provisioning Little Auks along the West coast of Spitsbergen. Prog Oceanogr. 2010;87: 72–82. doi:10.1016/j.pocean.2010.06.004
-52. Jakubas D, Wojczulanis-Jakubas K. Sex-and age-related differences in the timing and body condition of migrating Reed Warblers Acrocephalus scirpaceus and Sedge Warblers Acrocephalus schoenobaenus. Naturwissenschaften. 2010;97: 505–511. doi:10.1007/s00114-010-0666-y
-53. Wojczulanis-Jakubas K, Jakubas D, Stempniewicz L. Sex-specific parental care by incubating Little Auks (Alle alle). Ornis Fenn. 2009;86: 140–148. 
-54. Jakubas D, Wojczulanis-Jakubas K. Glaucous Gull Predation on Dovekies Three New Hunting Methods. Arctic. 2010;63: 468–470. Available: https://www.jstor.org/stable/20799626
-55. Wojczulanis-Jakubas K, Jakubas D, Stempniewicz L. Avifauna of Hornsund area, SW Spitsbergen: present state and recent changes. Pol Polar Res. 2008;29: 187–197. Available: http://scholar.google.com/scholar?hl=en&btnG=Search&q=intitle:Avifauna+of+Hornsund+area,+SW+Spitsbergen:+present+state+and+recent+changes#0
-56. Jakubas D, Wojczulanis-Jakubas K, Walkusz W. Response of Dovekie to Changes in Food Availability. 2007 pp. 421–428. doi:10.1675/1524-4695
-57. Kulaszewicz, I; Wojczulanis-Jakubas, K; Jakubas D. Variation of the Savi’s warbler (Locustella luscinioides) leucocytes profiles and body condition in relation to age, sex and moult. Annales Zoologici Fennici. 2015. pp. 325–338. doi:10.5735/086.052.0507
+<br>
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2006
+
+**Wojczulanis K**, Jakubas D, Walkusz W, Wennerberg L (**2006**). Differences in food delivered to chicks by males and females of little auks (Alle alle) on South Spitsbergen. *Journal of Ornithology* 147: 543–548. [PDF](https://doi:10.1007/s10336-006-0077-1)
+
+<br>
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2005
+
+**Wojczulanis K**, Jakubas D, Stempniewicz L (**2005**) Exploitation by the Grey Heron of fish regurgitated by Cormorants. *Waterbirds* 28: 225–229. [PDF](https://doi.org/10.1675/1524-4695(2005)028[0225:EBTGHO]2.0.CO;2)
+
+
+##############
+
+
+
+
+
+
+
+
+
+
 58. Skrzypek G, Wojtuń B, Richter D, Jakubas D, Wojczulanis-Jakubas K, Samecka-Cymerman A. Diversification of Nitrogen Sources in Various Tundra Vegetation Types in the High Arctic. PLoS One. 2015;10: e0136536. doi:10.1371/journal.pone.0136536
 59. Boehnke R, Gluchowska M, Wojczulanis-Jakubas K, Jakubas D, Karnovsky NJ, Walkusz W, et al. Supplementary diet components of little auk chicks in two contrasting regions on the West Spitsbergen coast. Polar Biol. 2014; 261–267. doi:10.1007/s00300-014-1568-9
 60. Wojczulanis-Jakubas K, Kilikowska A, Fort J, Gavrilo M, Jakubas D, Friesen V. No evidence of divergence at neutral genetic markers between the two morphologically different subspecies of the most numerous Arctic seabird. Ibis (Lond 1859). 2015;157: 787–797. doi:10.1111/ibi.12294
