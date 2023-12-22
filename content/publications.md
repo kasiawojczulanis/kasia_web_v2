@@ -52,7 +52,7 @@ Dufour P, **Wojczulanis-Jakubas K**, Lavergne S, Renaud J, Jakubas D, Descamps S
 
 Jakubas D, **Wojczulanis-Jakubas K**, Powers A, Frazier T, Bottomley M, Kraszpulski M (**2021**) Differences in a cage escape behaviour between two migrating warblers of different stop-over strategy. *Animals* 11(3): 639. https://doi.org/10.3390/ani11030639
 
-
+Albert C, Helgason HH, Brault-Favrou M, Robertson GJ, Descamps S, Amélineau F, Danielsen J, Dietz R, Elliott K, Erikstad EK, Eulaers I, Ezhov A, FitzsimmonsMG, Gavrilo M, Golubova E, Grémillet D, Hatch S, Huffeldt NP, Jakubas D, Kitaysky A, Kolbeinsson Y, Krasnov Y, Lorentsen S-H, Lorentzen E, Mallory ML, Merkel B, Merkel FR, Montevecchi W, Mosbech A, Olsen B, Orben RA, Patterson A, Provencher J, Plumejeaud Ch, Pratte I, Reiertsen TK, Renner H, Rojek N, Romano M, Strøm H, Systad GH, Takahashi A, Thiebot JB, Thórarinsson TL, Will AP, **Wojczulanis-Jakubas K** Bustamante P, Fort F (**2021**)  Seasonal variation of mercury contamination in Arctic seabirds: A pan-Arctic assessment. *Science of Total Environment* 750: 142201. https://doi:10.1016/j.scitotenv.2020.142201
 
 
 
@@ -60,7 +60,6 @@ Jakubas D, **Wojczulanis-Jakubas K**, Powers A, Frazier T, Bottomley M, Kraszpul
 
 ### Tidying up, to be continued...
 
-18. Albert C, Helgason HH, Brault-Favrou M, Robertson GJ, Descamps S, Amélineau F, et al. Seasonal variation of mercury contamination in Arctic seabirds: A pan-Arctic assessment. Sci Total Environ. 2021;750: 142201. doi:10.1016/j.scitotenv.2020.142201
 19. Renedo M, Amouroux D, Be S, Helgason H, Jakubas D, Mosbech A, et al. Contrasting Spatial and Seasonal Trends of Methylmercury Exposure Pathways of Arctic Seabirds : Combination of Large-Scale Tracking and Stable Isotopic Approaches. Environ Sci Technol. 2020. doi:10.1021/acs.est.0c03285
 20. Wojczulanis-Jakubas K, Jiménez-Muñoz M, Jakubas D, Kidawa D, Karnovsky NJ, Cole D, et al. Duration of female parental care and their survival in the little auk Alle alle - are these two traits linked ? Behav Ecol Sociobiol. 2020;74: 1–11. doi:doi.org/10.1007/s00265-020-02862-9
 21. Pacyna-Kuchta AD, Jakubas D, Frankowski M, Polkowska Ż, Wojczulanis-Jakubas K. Exposure of a small Arctic seabird, the little auk (Alle alle) breeding in Svalbard, to selected elements throughout the course of a year. Sci Total Environ. 2020;732. doi:10.1016/j.scitotenv.2020.139103
